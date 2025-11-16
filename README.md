@@ -28,8 +28,6 @@ Basado en criterios técnicos educativos, resaltando la importancia de ensayos r
 
 ---
 
----
-
 ### 📌 **Descripción detallada del propósito de cada componente**
 
 #### 🟦 **Carpeta `/src/`**
