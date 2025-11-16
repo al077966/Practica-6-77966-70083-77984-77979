@@ -1,4 +1,4 @@
-# Practica-6 Acreditacion por Ema
+# Practica-6 Acreditacion por EMA
 
 
 
@@ -43,8 +43,7 @@ Contiene toda la lógica interna del asistente, organizada para respetar princip
   Contiene los pesos o prioridades según el tipo de obra (cimentación, muro, techo, etc.).  
   Estas reglas determinan cómo se calculan los puntajes de cada material.
 
-- **`calculos.py`**  
-  Aquí vive la inteligencia del sistema:  
+- **`calculos.py`**    
   - Evalúa los materiales  
   - Calcula el mejor según el tipo de obra  
   - Determina cantidades aproximadas  
