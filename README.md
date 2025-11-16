@@ -28,4 +28,4 @@ Basado en criterios técnicos educativos, resaltando la importancia de ensayos r
 
 ---
 
-## 📂 Estructura del proyecto
+
