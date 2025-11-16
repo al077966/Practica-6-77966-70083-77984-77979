@@ -1,6 +1,5 @@
 # Practica-6 Acreditacion por EMA
 
-------------------------------------
 
 ## 🧠 ¿Qué hace este proyecto?
 
