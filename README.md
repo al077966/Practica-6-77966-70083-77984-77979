@@ -82,14 +82,3 @@ Esto garantiza que:
 
 ---
 
-### 📄 **`README.md`**
-La documentación oficial del proyecto.  
-Incluye instrucciones de uso, características, guías de instalación y créditos.
-
----
-
-### 📦 **`requirements.txt`**
-Archivo que contiene las dependencias necesarias.  
-Permite instalar todo el entorno con un solo comando:
-
-
