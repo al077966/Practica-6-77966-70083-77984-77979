@@ -1,3 +1,7 @@
+# Practica 6 Acreditacion por Ema
+
+--
+
 ## 🧠 ¿Qué hace este proyecto?
 
 Este asistente te ayuda a elegir el *material óptimo* para una obra según:
