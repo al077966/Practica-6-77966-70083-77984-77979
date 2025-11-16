@@ -15,6 +15,11 @@ Este asistente te ayuda a elegir el *material óptimo* para una obra según:
 Basado en criterios técnicos educativos, resaltando la importancia de ensayos realizados en *laboratorios acreditados por EMA*.
   https://www.ema.org.mx/portal_v3/
 
+## 🎯 Objetivo del proyecto
+
+Desarrollar un asistente digital capaz de recomendar el material más adecuado para una obra de construcción, evaluando criterios de resistencia, durabilidad, costo ambiental y económico, con base en información técnica proveniente de ensayos realizados en laboratorios acreditados por la Entidad Mexicana de Acreditación (EMA).
+El propósito es fortalecer la toma de decisiones en proyectos constructivos, promoviendo el uso de materiales validados, seguros y conformes con normas nacionales e internacionales.
+
 ---
 
 ## 🚀 Características
