@@ -1,4 +1,5 @@
 # Pratica-6
+OBJETIVO
 Al finalizar esta práctica, los estudiantes deberán:
 • Comprender el proceso de modelado de un problema real en el contexto de la ingeniería
 civil, desde el análisis hasta la validación de resultados.
