@@ -1,10 +1,27 @@
-# <img width="1" height="1" alt="image" src="https://github.com/user-attachments/assets/9cc9da28-7f23-49fa-9ea7-e4d85a115f8f" />
-Pratica-6-Asistente de Selección de Materiales para Obra
-- Este proyecto ayuda a elegir el material más adecuado para una obra
-según su tipo, basado en criterios didácticos de ingeniería.
-------------------------------------------------------------
-# ¿Cómo funciona?
-- Evalúa resistencia, durabilidad y costo.
-- Recomienda el mejor material.
-- Estima cantidades necesarias.
-- Añade observaciones basadas en buenas prácticas y la importancia de la EMA.
+## 🧠 ¿Qué hace este proyecto?
+
+Este asistente te ayuda a elegir el *material óptimo* para una obra según:
+
+- Resistencia  
+- Durabilidad  
+- Costo  
+- Impacto ambiental  
+- Tipo de obra  
+
+Basado en criterios técnicos educativos, resaltando la importancia de ensayos realizados en *laboratorios acreditados por EMA*.
+
+---
+
+## 🚀 Características
+
+✔ CLI (línea de comandos)  
+✔ GUI con Tkinter  
+✔ API Web con Flask  
+✔ Recomendación técnica + cantidades  
+✔ Reporte detallado  
+✔ Pruebas automatizadas con pytest  
+✔ Código modular y limpio  
+
+---
+
+## 📂 Estructura del proyecto
