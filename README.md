@@ -55,15 +55,15 @@ Contiene toda la lógica interna del asistente, organizada para respetar princip
 
 ### 🟩 **Archivos fuera de `/src/`**
 
-#### **`main.py`**  
+- #### **`main.py`**  
 Entrada principal para usar el asistente por consola (CLI).  
 Este archivo mantiene el proyecto universal: siempre funcionará, sin necesidad de GUI o web.
 
-#### **`gui.py`**  
+- #### **`gui.py`**  
 Interfaz gráfica con Tkinter.  
 Pensada para usuarios que prefieren algo visual y sencillo, sin escribir comandos.
 
-#### **`app.py`**  
+- #### **`app.py`**  
 Servidor web básico usando Flask.  
 Permite usar el asistente en navegador o integrarlo en otros sistemas mediante HTTP.
 
