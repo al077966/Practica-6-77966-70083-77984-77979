@@ -4,7 +4,7 @@ EMA es una herramienta que ayuda a calcular los **materiales**, **costos**, **ca
 
 ---
 
-## Cómo funciona
+## Cómo funciona?
 
 1. Ingresas los **metros cuadrados**, el **tipo de obra** y el **número de trabajadores**.  
 2. Seleccionas los **materiales** que usarás.  
