@@ -22,3 +22,5 @@ EMA es una herramienta que ayuda a calcular los **materiales**, **costos**, **ca
 
 EMA permite planificar una obra de manera más **eficiente**, tomando decisiones informadas sobre **materiales, costos y tiempos**. Esto ayuda a optimizar recursos, mejorar la calidad del proyecto y reducir riesgos durante la construcción.
 
+JOJI.
+
